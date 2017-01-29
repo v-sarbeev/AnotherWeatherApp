@@ -1,11 +1,11 @@
-package ru.pixnstix.anotherweatherapp.presentation.currentweather;
+package ru.pixnstix.anotherweatherapp.presentation;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import ru.pixnstix.anotherweatherapp.R;
 
-public class CurrentWeatherActivity extends AppCompatActivity {
+public class MainScreenActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
